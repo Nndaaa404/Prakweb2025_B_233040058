@@ -1,0 +1,28 @@
+        body {
+            background-color: whitesmoke;
+        }
+
+        .container {
+            margin-top: 50px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #333;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        table {
+            border: 1px solid #dee2e6;
+        }
+
+        thead th {
+            background-color: #0d6efd !important;
+            color: white !important;
+            text-align: center;
+        }
